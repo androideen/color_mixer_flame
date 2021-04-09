@@ -8,6 +8,7 @@ Colox Mixer is a minimalist color game bult with Flame engine.
 - [Description](https://www.tldevtech.com/color-mixer-game/)
 - [Apk demo file](https://github.com/androideen/color_mixer_flame/blob/master/demo/color_mixer.apk)
 - [Flame Engine](https://pub.dev/packages/flame)
+- [Making Games with Flutter](https://www.tldevtech.com/making-games-with-flutter/)
 
 ### Sound
 
